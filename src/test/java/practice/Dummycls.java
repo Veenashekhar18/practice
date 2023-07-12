@@ -8,5 +8,6 @@ public class Dummycls {
 	{
 		System.out.println("hello");
 		//hiii 
+		//hii world
 	}
 }
